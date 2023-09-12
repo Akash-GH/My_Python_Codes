@@ -109,7 +109,7 @@ print('\n')
 upperwho =  'WORLD HEALTH ORGANIZATION'
 print(upperwho.isupper())
 
-# The endswith() method checks if the string starts with a given value. If yes then return True, else return False.
+# The startswith() method checks if the string starts with a given value. If yes then return True, else return False.
 lang = "Python is a Interpreted Language" 
 print(lang.startswith("Python"))
 
